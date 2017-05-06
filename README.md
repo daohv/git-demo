@@ -19,7 +19,7 @@ test1
 * `cd git-ember`
 * `npm install`
 * `bower install`
-
+test2
 ## Running / Development
 
 * `ember serve`
