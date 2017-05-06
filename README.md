@@ -14,7 +14,7 @@ You will need the following things properly installed on your computer.
 * [PhantomJS](http://phantomjs.org/)
 test test test dada
 ## Installation
-
+test1
 * `git clone <repository-url>` this repository
 * `cd git-ember`
 * `npm install`
